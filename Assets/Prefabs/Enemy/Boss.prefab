@@ -266,6 +266,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 86672f7f4be96f246aae06cb084b520a, type: 2}
     - target: {fileID: 628250346150696856, guid: 3a6c0aa7f15ac0b42b1dbf241b4244f5, type: 3}
+      propertyPath: type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 628250346150696856, guid: 3a6c0aa7f15ac0b42b1dbf241b4244f5, type: 3}
       propertyPath: agent
       value: 
       objectReference: {fileID: 8429291323102357187}

@@ -155,7 +155,7 @@ MonoBehaviour:
   explosionEffect: {fileID: 8529730799246130812}
   explosionInducingLayers:
     serializedVersion: 2
-    m_Bits: 16384
+    m_Bits: 20480
   explosionAffectedLayers:
     serializedVersion: 2
     m_Bits: 25089
