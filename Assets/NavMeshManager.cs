@@ -39,9 +39,9 @@ public class NavMeshManager : MonoBehaviour
 
     public void BakeNavMesh()
     {
-        //foreach (NavMeshSurface surface in Surfaces)
-        //{
-        //    surface.BuildNavMesh();
-        //}
+        foreach (NavMeshSurface surface in Surfaces)
+        {
+            surface.BuildNavMesh();
+        }
     }
 }
